@@ -1,0 +1,13 @@
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API2\PRACTICA_API2\bin\Debug\PRACTICA_API2.exe.config
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API2\PRACTICA_API2\bin\Debug\PRACTICA_API2.exe
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API2\PRACTICA_API2\bin\Debug\PRACTICA_API2.pdb
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API2\PRACTICA_API2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API2\PRACTICA_API2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API2\PRACTICA_API2\obj\Debug\PRACTICA_API2.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API2\PRACTICA_API2\obj\Debug\PRACTICA_API2.Form1.resources
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API2\PRACTICA_API2\obj\Debug\PRACTICA_API2.Properties.Resources.resources
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API2\PRACTICA_API2\obj\Debug\PRACTICA_API2.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API2\PRACTICA_API2\obj\Debug\PRACTICA_API2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API2\PRACTICA_API2\obj\Debug\PRACTICA_API2.csproj.CopyComplete
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API2\PRACTICA_API2\obj\Debug\PRACTICA_API2.exe
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API2\PRACTICA_API2\obj\Debug\PRACTICA_API2.pdb
